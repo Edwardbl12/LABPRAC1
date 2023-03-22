@@ -1,2 +1,3 @@
 # LABPRAC1
-Primer labofunda
+# Primerlabofunda:
+Edwar Alberto Batista Lizama
